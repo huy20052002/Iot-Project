@@ -1,6 +1,6 @@
 
 # IOT Project
-Dự án IOT sử dụng mạch ESP8266, cảm biến dht11, quang trở để đo, quản lý nhiệt độ, độ ẩm và ánh sáng, kèm với bật tắt, quản lý 02 thiết bị: đèn và quạt:
+Dự án IOT sử dụng mạch ESP8266, cảm biến dht11, quang trở để đo nhiệt độ, độ ẩm và ánh sáng. Đi kèm với bật tắt, quản lý 02 thiết bị: đèn và quạt:
 - Thông tin về nhiệt độ, độ ẩm và ánh sáng sẽ được cảm biến thu lại ở phần cứng. Sau đó thông tin sẽ được xử lý ở server và hiển thị trực quan hoá trên giao diện web người dùng. 
 - Người dùng có thể thực hiện chức năng bật/tắt các thiết bị đèn, quạt trên giao diện web, các yêu cầu sau đó sẽ được xử lý ở server và gửi về phần cứng để thực hiện yêu cầu.
 
